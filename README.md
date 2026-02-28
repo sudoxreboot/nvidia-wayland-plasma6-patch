@@ -8,12 +8,17 @@ patch script below notes for safety
 
 <h2>current state</h2>
 work in progress:
-<h3>2026.02.27-18:37CST</h3>
 
+<details>
+  <summary><h3>2026.02.27-18:37CST</h3></summary>
+<p align="center">\
+  
 - script ran fine, no errors, have not allowed screen to go black yet
   
 - will update if need be
 
+</p>
+</details>  
 
 
 <h1>patch script</h1>
