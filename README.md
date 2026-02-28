@@ -8,5 +8,7 @@ fix the plasma 6 crash on wake from screen off (not just from sleep)
 <h2>current state</h2>
 work in progress:
 <h3>2026.02.27-18:37CST</h3>
+
 - script ran fine, no errors, have not allowed screen to go black yet
+  
 - will update if need be
