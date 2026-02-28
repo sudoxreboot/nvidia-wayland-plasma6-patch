@@ -11,7 +11,7 @@ work in progress:
 
 <details>
   <summary><h3>2026.02.27-18:37CST</h3></summary>
-<p align="center">\
+<p align="center">  
   
 - script ran fine, no errors, have not allowed screen to go black yet
   
