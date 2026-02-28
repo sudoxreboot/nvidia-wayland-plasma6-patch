@@ -4,6 +4,7 @@ kubuntu had no problem relaunching after, so probably safe
 # nvidia-wayland-plasma6-patch
 fix the plasma 6 crash on wake from screen off (not just from sleep)
 
+patch script below notes for safety
 
 <h2>current state</h2>
 work in progress:
@@ -12,3 +13,11 @@ work in progress:
 - script ran fine, no errors, have not allowed screen to go black yet
   
 - will update if need be
+
+
+
+<h1>patch script</h1>
+
+```
+curl -fsSL https://raw.githubusercontent.com/sudoxreboot/nvidia-wayland-plasma6-patch/main/plasvidia-patch.sh | bash
+```
